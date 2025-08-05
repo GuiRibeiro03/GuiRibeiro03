@@ -1,6 +1,14 @@
 <h1 align="center">Hi 👋, I'm Guilherme Ribeiro</h1>
 <h3 align="center">A passionate frontend developer from Portugal</h3>
 
+<hr>
+<h3>About Me 👨‍🦰👨‍💻</h3>
+I'm a 21-year-old Portuguese software developer from Marinha Grande, Leiria.
+I recently graduated in Software Engineering from the Polytechnic Institute of Leiria.
+Currently, I'm focused on improving my skills, building personal projects, and learning new programming languages and tools.
+<hr>
+
+
 - 🔭 I’m currently working on **Pickerhut**
 
 - 🌱 I’m currently learning **Node.js/Express, .NET**
